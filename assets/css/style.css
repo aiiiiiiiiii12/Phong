@@ -133,7 +133,7 @@ html {
     position: relative;
     margin-top: 46px;
     padding-top: 50%;
-    background: url('/assets/img/slider1.jpg') top center / cover no-repeat;
+    background: url('https://media.cnn.com/api/v1/images/stellar/prod/210303111816-catsupplieslead.jpg?q=x_0,y_0,h_1407,w_2500,c_fill/h_720,w_1280') top center / cover no-repeat;
     
 
 }
